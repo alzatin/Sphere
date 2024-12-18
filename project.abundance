@@ -72,10 +72,10 @@
             "ap2ID": 1734321679886
         },
         {
-            "ap1Name": "number",
+            "ap1Name": "number or geometry",
             "ap2Name": "radius",
             "ap2Primary": false,
-            "ap1ID": 1734558543120,
+            "ap1ID": 1734541286916,
             "ap2ID": 1734321683991
         }
     ],
